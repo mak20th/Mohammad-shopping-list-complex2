@@ -1,8 +1,3 @@
-/* eslint-disable no-undef */
-/* eslint-disable quotes */
-/* eslint-disable no-console */
-/*global $ */
-
 'use strict';
 
 const STORE = {
